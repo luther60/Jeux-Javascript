@@ -1,0 +1,11 @@
+.cont_left, .cont_right{height: 930px;}
+
+.score{width: 150px;height: 100px;margin-top: 600px;margin-left: 400px;}
+
+.new_game{position: absolute;margin-top: 200px;}
+
+.roll_dice{position:absolute;margin-top: 700px;}
+  
+.hold{ position: absolute; padding-top: 400px;}
+
+.btn{height: 80px;width: 150px;}
